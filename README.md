@@ -1,7 +1,6 @@
 # JAVA-SCRIPT
 
-# Sequences
-# Algorithms
+# Sequences # Algorithms
 # Computer program
 # Debugging
 # Data types
